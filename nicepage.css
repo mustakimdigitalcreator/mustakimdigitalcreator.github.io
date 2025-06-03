@@ -46382,11 +46382,11 @@ a.u-link.u-text-hover-color-var:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 488px;
+    min-height: 491px;
   }
 
   .u-footer .u-layout-wrap-1 {
-    margin-top: 70px;
+    margin-top: 71px;
   }
 
   .u-footer .u-layout-cell-1 {
@@ -46446,7 +46446,7 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-footer .u-text-12 {
-    margin-top: 1px;
+    margin-top: 0;
     margin-bottom: 33px;
   }
 }
